@@ -16,3 +16,6 @@ https://github.com/jyan0302/ECE444-F2022-EP <br />
 **Activity 7** <br />
 ![rebasetodevelop](https://user-images.githubusercontent.com/48415950/190885089-045b2b51-331a-4fa9-b7eb-7a4f435f995c.JPG) <br />
 ![changedtitlename](https://user-images.githubusercontent.com/48415950/190885104-25587009-94bc-43ec-a20b-71044ebc3699.JPG) <br />
+**Activity 8** <br />
+![rebasetodevelop2](https://user-images.githubusercontent.com/48415950/190885710-5c920020-382d-444f-bc9f-2b6f505df15a.JPG) <br />
+![addedtab](https://user-images.githubusercontent.com/48415950/190885741-e800d608-d2c8-40ad-94b5-962792a61e0d.JPG) <br />

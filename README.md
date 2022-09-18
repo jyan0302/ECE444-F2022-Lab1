@@ -13,3 +13,6 @@ https://github.com/Jan729/ECE444-F2022-Lab1 <br />
 ![rebase3](https://user-images.githubusercontent.com/48415950/190443258-1e7bc168-dc35-468c-949d-087ca0e4b7e1.png)<br />
 **Activity 6** <br />
 https://github.com/jyan0302/ECE444-F2022-EP <br />
+**Activity 7** <br />
+![rebasetodevelop](https://user-images.githubusercontent.com/48415950/190885089-045b2b51-331a-4fa9-b7eb-7a4f435f995c.JPG) <br />
+![changedtitlename](https://user-images.githubusercontent.com/48415950/190885104-25587009-94bc-43ec-a20b-71044ebc3699.JPG) <br />

@@ -10,4 +10,6 @@ https://github.com/Jan729/ECE444-F2022-Lab1 <br />
 ![Screenshot at 2022-09-15 10-42-23](https://user-images.githubusercontent.com/48415950/190433871-51a16964-0617-4e07-a077-ff64748e216c.png) <br />
 ![Screenshot at 2022-09-15 10-44-52](https://user-images.githubusercontent.com/48415950/190434408-4515a8d4-7fbd-476d-b2eb-e888a970cc2d.png) <br />
 **Activity 5** <br />
-![rebase3](https://user-images.githubusercontent.com/48415950/190443258-1e7bc168-dc35-468c-949d-087ca0e4b7e1.png)
+![rebase3](https://user-images.githubusercontent.com/48415950/190443258-1e7bc168-dc35-468c-949d-087ca0e4b7e1.png)<br />
+**Activity 6** <br />
+https://github.com/jyan0302/ECE444-F2022-EP <br />
